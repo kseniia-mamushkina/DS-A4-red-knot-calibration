@@ -1,0 +1,4 @@
+model,outer_brier
+Logistic regression,0.15864439819833429
+Gradient boosting,0.16039774671556892
+Random forest,0.16196366803950174

@@ -1,0 +1,4 @@
+model,total_errors,high_confidence_birds,high_confidence_errors,error_rate_high_confidence
+Logistic regression,497,496,21,0.04233870967741935
+Random forest,517,351,16,0.045584045584045586
+Gradient boosting,494,382,14,0.03664921465968586

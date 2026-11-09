@@ -1,0 +1,16 @@
+model,outer_fold,threshold,select_none,inner_n_selected,inner_loss,n,n_female,n_selected,tp,fp,fn,loss
+Logistic regression,1,0.73,False,681,891.0,426,252,170,148,22,104,230.0
+Logistic regression,2,0.71,False,681,921.0,426,252,170,151,19,101,221.0
+Logistic regression,3,0.72,False,681,904.0,426,253,151,135,16,118,252.0
+Logistic regression,4,0.72,False,681,937.0,426,253,162,149,13,104,221.0
+Logistic regression,5,0.73,False,681,907.0,426,253,170,146,24,107,238.0
+Random forest,1,0.72,False,680,923.0,426,252,170,145,25,107,239.0
+Random forest,2,0.71,False,681,930.0,426,252,170,152,18,100,218.0
+Random forest,3,0.71,False,681,928.0,426,253,153,135,18,118,254.0
+Random forest,4,0.7,False,681,937.0,426,253,162,151,11,102,215.0
+Random forest,5,0.7,False,681,928.0,426,253,170,149,21,104,229.0
+Gradient boosting,1,0.73,False,681,915.0,426,252,170,145,25,107,239.0
+Gradient boosting,2,0.72,False,681,930.0,426,252,166,149,17,103,223.0
+Gradient boosting,3,0.73,False,681,919.0,426,253,150,132,18,121,260.0
+Gradient boosting,4,0.72,False,681,937.0,426,253,164,151,13,102,217.0
+Gradient boosting,5,0.72,False,681,907.0,426,253,170,146,24,107,238.0
